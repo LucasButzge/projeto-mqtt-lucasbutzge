@@ -1,5 +1,5 @@
 
-# Repositório do Entregavel Sprint 8 - IoT
+# ➜ Repositório do Entregavel Sprint 8 - IoT
 
 ## Objetivo;
 Este projeto tem como objetivo conectar o arduíno a um sensor magnético para monitorar se um Rack está ABERTO ou FECHADO - enviar essa informação via Internet
