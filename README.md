@@ -5,7 +5,8 @@ Este projeto tem como objeitvo conectar o arduíno a um sensor magnético para m
 utilizando o protocolo MQTT (Message Queuing Telemetry Transport) para um servidor MQTT hospedado na Amazon Web Service (AWS) - exibir a informação 
 em um cliente MQTT (MQTT Dash) instalado em um Smartphone, conforme imagem abaixo.
 
-https://camo.githubusercontent.com/7beef2d4780d87a603d7de49b2da0467c8537dff96575b628a04bd4010ebb1cc/68747470733a2f2f692e696d6775722e636f6d2f4d576870586b562e706e67
+![Projeto 1](https://user-images.githubusercontent.com/78054160/106751642-3763f000-6608-11eb-835d-d35a99a629a1.png)
+
 
 Foram utilazados as seguintes biblíotecas;
 
