@@ -20,4 +20,4 @@ Foram utilazados as seguintes biblíotecas;
 
 ##Cirucito
 
-https://camo.githubusercontent.com/ad1da211b35b60b23fb095a64e76dc6504d0c3229e853bd82a69a4d5d27bbb88/68747470733a2f2f692e696d6775722e636f6d2f594947477453472e706e67
+![Projeto 2](https://user-images.githubusercontent.com/78054160/106751865-8f025b80-6608-11eb-964a-313256726413.png)
