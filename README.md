@@ -10,17 +10,17 @@ em um cliente MQTT (MQTT Dash) instalado em um Smartphone, conforme imagem abaix
 
 
 ## Biblíotecas Utilizadas;
-ºPubSubClient
-ºUIPEthernet
-ºSPI
+- PubSubClient
+- UIPEthernet
+- SPI
 
 
 ## Materiais;
-ºArduino Uno
-ºMódulo Ethernet (ENC28J60)
-ºSensor Magnético (MC-38)
-ºJumpers
-ºSmartphone
+- Arduino Uno
+- Módulo Ethernet (ENC28J60)
+- Sensor Magnético (MC-38)
+- Jumpers
+- Smartphone
 
 ## Circuito;
 
