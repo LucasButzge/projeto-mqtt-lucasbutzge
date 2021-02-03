@@ -2,7 +2,7 @@
 ## Repositório do Entregavel Sprint 8
 
 # Objetivo
-Este projeto tem como objeitvo conectar o arduíno a um sensor magnético para monitorar se um Rack está ABERTO ou FECHADO - enviar essa informação via Internet
+Este projeto tem como objetivo conectar o arduíno a um sensor magnético para monitorar se um Rack está ABERTO ou FECHADO - enviar essa informação via Internet
 utilizando o protocolo MQTT (Message Queuing Telemetry Transport) para um servidor MQTT hospedado na Amazon Web Service (AWS) - exibir a informação 
 em um cliente MQTT (MQTT Dash) instalado em um Smartphone, conforme imagem abaixo.
 
