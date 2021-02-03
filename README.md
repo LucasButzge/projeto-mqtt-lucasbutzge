@@ -21,3 +21,5 @@ Foram utilazados as seguintes biblíotecas;
 ##Cirucito
 
 ![Projeto 2](https://user-images.githubusercontent.com/78054160/106751865-8f025b80-6608-11eb-964a-313256726413.png)
+
+<b>Autor : <i>Lucas Butzge de Oliveira
