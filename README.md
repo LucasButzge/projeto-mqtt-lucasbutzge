@@ -1,5 +1,5 @@
-#### projeto-mqtt-lucasbutzge
-#### Repositório do Entregavel Sprint 8
+## projeto-mqtt-lucasbutzge
+## Repositório do Entregavel Sprint 8
 
 #### Objetivo
 Este projeto tem como objetivo conectar o arduíno a um sensor magnético para monitorar se um Rack está ABERTO ou FECHADO - enviar essa informação via Internet
