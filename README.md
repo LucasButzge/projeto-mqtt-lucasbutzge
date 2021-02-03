@@ -10,8 +10,8 @@ em um cliente MQTT (MQTT Dash) instalado em um Smartphone, conforme imagem abaix
 
 
 ## Biblíotecas Utilizadas;
-- UIPEthernet
 - PubSubClient
+- UIPEthernet
 - SPI
 
 
