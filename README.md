@@ -1,5 +1,5 @@
 #### projeto-mqtt-lucasbutzge
-### Repositório do Entregavel Sprint 8
+#### Repositório do Entregavel Sprint 8
 
 #### Objetivo
 Este projeto tem como objetivo conectar o arduíno a um sensor magnético para monitorar se um Rack está ABERTO ou FECHADO - enviar essa informação via Internet
@@ -10,9 +10,9 @@ em um cliente MQTT (MQTT Dash) instalado em um Smartphone, conforme imagem abaix
 
 
 #### Biblíotecas Utilizadas;
-UIPEthernet
-PubSubClient
-SPI
+- UIPEthernet
+- PubSubClient
+- SPI
 
 
 #### Materiais
@@ -21,7 +21,7 @@ SPI
 - Sensor Magnético (MC-38)
 - Jumpers
 
-# Circuito
+#### Circuito
 
 ![Projeto 2](https://user-images.githubusercontent.com/78054160/106751865-8f025b80-6608-11eb-964a-313256726413.png)
 
