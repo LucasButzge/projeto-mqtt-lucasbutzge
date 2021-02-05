@@ -1,10 +1,7 @@
 //Monitoramento remoto com Arduino e protocolo MQTT
 
 #include <PubSubClient.h>
-
 #include <UIPEthernet.h>
-//#Include <utility/logging.h>
-
 #include <SPI.h>
 
 //MacAdress 5E-67-04-0E-A6-2F
@@ -56,7 +53,7 @@ if (estado_sensor == 0){
     delay(500);
     }
 
-else (estado_sensor == 1) {
+else {
     mensagem = mqttClient.publish("Rack", "Aberto");
     
     Serial.print("O estado do sensor e: ");
