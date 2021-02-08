@@ -27,5 +27,7 @@ em um cliente MQTT ([MQTT Dash](https://play.google.com/store/apps/details?id=ne
 ![Projeto 2](https://user-images.githubusercontent.com/78054160/106751865-8f025b80-6608-11eb-964a-313256726413.png)
 
 <b>Autor : <i>Lucas Butzge de Oliveira
-<img alt="LinkedIn" src=https://www.linkedin.com/in/lucas-butzge-de-oliveira-3a62981b4//>
+
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+
   
