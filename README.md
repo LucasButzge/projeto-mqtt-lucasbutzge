@@ -10,7 +10,7 @@ em um cliente MQTT (MQTT Dash) instalado em um Smartphone, conforme imagem abaix
 
 
 ## Biblíotecas Utilizadas
-- PubSubClient (cliente MQTT para o Arduino)
+- <a href=“https://github.com/knolleary/pubsubclient“>Flex Grid</a> PubSubClient (cliente MQTT para o Arduino)
 - UIPEthernet (conexão do ENC28J60 com o Arduino)
 - SPI
 
