@@ -28,4 +28,4 @@ em um cliente MQTT ([MQTT Dash](https://play.google.com/store/apps/details?id=ne
 
 <b>Autor : <i>Lucas Butzge de Oliveira
 [LinkedIn] (https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin) 
-
+<img src=“https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin”>
