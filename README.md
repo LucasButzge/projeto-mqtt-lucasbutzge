@@ -28,6 +28,6 @@ em um cliente MQTT ([MQTT Dash](https://play.google.com/store/apps/details?id=ne
 
 <b>Autor : <i>Lucas Butzge de Oliveira
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/lucas-butzge-de-oliveira-3a62981b4/)
 
   
